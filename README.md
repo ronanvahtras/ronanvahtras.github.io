@@ -21,12 +21,12 @@ Colloquially, the terms meme and internet meme may refer to pieces of media that
     <th>Elukoht</th>
   </tr>
   <tr>
-    <td>Ronn</td>
+    <td>Scott</td>
     <td>Sportlane</td>
     <td>Miami</td>
   </tr>
   <tr>
-    <td>Sonja</td>
+    <td>Marty</td>
     <td>Firmajuht</td>
     <td>London</td>
   </tr>
