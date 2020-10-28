@@ -8,7 +8,9 @@ https://taltech.ee/
 </head>
 <body>
 
-<h1>Sophisticated memepage</h1>
+<div style="background-color:red">
+  <h1 style="color:white">The story of a meme</h1>
+</div>
 <p>A meme (/miːm/ MEEM)[1][2][3] is an idea, behavior, or style that becomes a fad and spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme.[4] A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures.[5]
 
 Proponents[who?] theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution.[citation needed] Memes do this through the processes of variation, mutation, competition, and inheritance, each of which influences a meme's reproductive success. Memes spread through the behavior that they generate in their hosts. Memes that propagate less prolifically may become extinct, while others may survive, spread, and (for better or for worse) mutate. Memes that replicate most effectively enjoy more success, and some may replicate effectively even when they prove to be detrimental to the welfare of their hosts.[6]
