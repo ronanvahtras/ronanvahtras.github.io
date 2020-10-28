@@ -10,7 +10,7 @@
 Colloquially, the terms meme and internet meme may refer to pieces of media that are designed in the format of true internet memes, but which are not themselves intended to spread or evolve, and which have recently become umbrella terms referring to any piece of quickly-consumed comedic or relatable content. What is considered a meme may vary across different communities on the internet and is subject to change over time: traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.</p>
 
 ![image](https://user-images.githubusercontent.com/73606720/97484928-12554680-1962-11eb-8b4f-f75bb8291635.png)
-<h2>Pilt väga kurvast Pepest</h2>
+<p>Pilt väga kurvast Pepest</p>
 
 <h2>Suvaline tabel</h2>
 
