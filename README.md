@@ -1,23 +1,25 @@
+
+
 201767
 https://taltech.ee/
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Meme</title>
 </head>
 <body>
 
-<div style="background-color:red">
-  <h1 style="color:white">The story of a meme</h1>
+<div style="background-color:gray">
+  <h1 style="color:black">201767</h1>
 </div>
-<p>A meme (/miːm/ MEEM)[1][2][3] is an idea, behavior, or style that becomes a fad and spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme.[4] A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures.[5]
 
-Proponents[who?] theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution.[citation needed] Memes do this through the processes of variation, mutation, competition, and inheritance, each of which influences a meme's reproductive success. Memes spread through the behavior that they generate in their hosts. Memes that propagate less prolifically may become extinct, while others may survive, spread, and (for better or for worse) mutate. Memes that replicate most effectively enjoy more success, and some may replicate effectively even when they prove to be detrimental to the welfare of their hosts.[6]
+<div style="background-color:gray">
+  <h2 style="color:black">What is an internet meme?</h2>
+     <p style="text-align:center;">What is an internet meme?</p>
+</div>
+<p>An internet meme, more commonly known simply as a meme, is a type of meme that is spread via the Internet, often through social media platforms and especially for humorous purposes. Memes can spread from person to person via social networks, blogs, direct email, or news sources. They may relate to various existing Internet cultures or subcultures, often created or spread on various websites. One hallmark of internet memes is the appropriation of a part of broader culture, for instance by giving words and phrases intentional misspellings (such as lolcats) or using incorrect grammar (such as doge); in particular, many memes utilize popular culture (especially in image macros of other media), although this can lead to issues with copyright. Instant communication on the internet facilitates word of mouth transmission, resulting in fads and sensations that tend to grow rapidly. An example of such a fad is that of planking, the act of posting a photo of people lying down in public places; putting the photo online brings attention to the fad and allows it to reach a high number of people in a short amount of time. “Dank” memes have emerged as a new form of image-macros, and many modern memes take on inclusion of surreal, nonsensical, and non-sequitur themes.
 
-A field of study called memetics[7] arose in the 1990s to explore the concepts and transmission of memes in terms of an evolutionary model. Criticism from a variety of fronts has challenged the notion that academic study can examine memes empirically. However, developments in neuroimaging may make empirical study possible.[8] Some commentators in the social sciences question the idea that one can meaningfully categorize culture in terms of discrete units, and are especially critical of the biological nature of the theory's underpinnings.[9] Others have argued that this use of the term is the result of a misunderstanding of the original proposal.[10]
-
-The word meme itself is a neologism coined by Richard Dawkins, originating from his 1976 book The Selfish Gene.[11] Dawkins's own position is somewhat ambiguous. He welcomed N. K. Humphrey's suggestion that "memes should be considered as living structures, not just metaphorically"[11] and proposed to regard memes as "physically residing in the brain."[12] Later, he argued that his original intentions, presumably before his approval of Humphrey's opinion, had been simpler.[13].</p>
+Colloquially, the terms meme and internet meme may refer to pieces of media that are designed in the format of true internet memes, but which are not themselves intended to spread or evolve, and which have recently become umbrella terms referring to any piece of quickly-consumed comedic or relatable content. What is considered a meme may vary across different communities on the internet and is subject to change over time: traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.</p>
 
 </body>
 </html>
