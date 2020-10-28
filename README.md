@@ -1,7 +1,7 @@
 <div style="background-color:black">
   <h2 style="color:white">// 201767 //</h2>
-  <a href="url">https://www.taltech.ee/</a>
 </div>
+<a href="url">https://www.taltech.ee/</a>
 
 <h2>What is an internet meme?</h2>
 
