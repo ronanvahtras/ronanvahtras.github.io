@@ -1,10 +1,10 @@
-<div style="background-color:gray">
-  <h2 style="color:black">// 201767 //</h2>
-  <a href="https://www.taltech.ee/"</a>
+<div style="background-color:black">
+  <h2 style="color:white">// 201767 //</h2>
+  <a href="url">https://taltech.ee/</a>
 </div>
 
-<div style="background-color:gray">
-  <h2 style="color:black">What is an internet meme?</h2>
+<div style="background-color:black">
+  <h2 style="color:white">What is an internet meme?</h2>
 </div>
 
 <h3 style="text-align:center;">What is an internet meme?</h3>
@@ -24,14 +24,9 @@ Colloquially, the terms meme and internet meme may refer to pieces of media that
     <th>Elukoht</th>
   </tr>
   <tr>
-    <td>Alfred</td>
-    <td>Maaler</td>
-    <td>Kose</td>
-  </tr>
-  <tr>
-    <td>Kalle</td>
-    <td>Poliitik</td>
-    <td>Tallinn</td>
+    <td>Ronn</td>
+    <td>Sportlane</td>
+    <td>Miami</td>
   </tr>
   <tr>
     <td>Sonja</td>
