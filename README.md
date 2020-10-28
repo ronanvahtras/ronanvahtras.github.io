@@ -12,9 +12,6 @@ Colloquially, the terms meme and internet meme may refer to pieces of media that
 ![image](https://user-images.githubusercontent.com/73606720/97484928-12554680-1962-11eb-8b4f-f75bb8291635.png)
 <p>Pilt väga kurvast Pepest</p>
 
-![image](https://user-images.githubusercontent.com/73606720/97486954-dbccfb00-1964-11eb-95dd-253bc08f5bd1.png)
-Fat ass pig
-
 <h2>Suvaline tabel</h2>
 
 <table>
