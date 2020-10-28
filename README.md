@@ -1,6 +1,6 @@
 <div style="background-color:black">
   <h2 style="color:white">// 201767 //</h2>
-  <a href="url">https://taltech.ee/</a>
+  <a href="url">https://www.taltech.ee/</a>
 </div>
 
 <div style="background-color:black">
